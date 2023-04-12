@@ -1,0 +1,7 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/src/mhfu_server/Cargo.toml",
+        "/src/mhfu_server/Cargo.toml",
+        "/src/mhfu_server/Cargo.toml"
+    ]
+}
